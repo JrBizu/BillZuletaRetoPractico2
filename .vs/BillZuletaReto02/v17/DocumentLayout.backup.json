@@ -1,105 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\retopractico02\\billzuletareto02\\application\\usecases\\logs\\queries\\getlogs\\getlogsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|solutionrelative:application\\usecases\\logs\\queries\\getlogs\\getlogsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16DE1A15-1395-4841-AF55-4CE9C3826E43}|BillZuletaRetoPractico02\\BillZuletaRetoPractico02.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\retopractico02\\billzuletareto02\\billzuletaretopractico02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16DE1A15-1395-4841-AF55-4CE9C3826E43}|BillZuletaRetoPractico02\\BillZuletaRetoPractico02.csproj|solutionrelative:billzuletaretopractico02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16DE1A15-1395-4841-AF55-4CE9C3826E43}|BillZuletaRetoPractico02\\BillZuletaRetoPractico02.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\retopractico02\\billzuletareto02\\billzuletaretopractico02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{16DE1A15-1395-4841-AF55-4CE9C3826E43}|BillZuletaRetoPractico02\\BillZuletaRetoPractico02.csproj|solutionrelative:billzuletaretopractico02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16DE1A15-1395-4841-AF55-4CE9C3826E43}|BillZuletaRetoPractico02\\BillZuletaRetoPractico02.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\retopractico02\\billzuletareto02\\billzuletaretopractico02\\controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16DE1A15-1395-4841-AF55-4CE9C3826E43}|BillZuletaRetoPractico02\\BillZuletaRetoPractico02.csproj|solutionrelative:billzuletaretopractico02\\controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16DE1A15-1395-4841-AF55-4CE9C3826E43}|BillZuletaRetoPractico02\\BillZuletaRetoPractico02.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\retopractico02\\billzuletareto02\\billzuletaretopractico02\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16DE1A15-1395-4841-AF55-4CE9C3826E43}|BillZuletaRetoPractico02\\BillZuletaRetoPractico02.csproj|solutionrelative:billzuletaretopractico02\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GetLogsQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Application\\UseCases\\Logs\\Queries\\GetLogs\\GetLogsQuery.cs",
-              "RelativeDocumentMoniker": "Application\\UseCases\\Logs\\Queries\\GetLogs\\GetLogsQuery.cs",
-              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Application\\UseCases\\Logs\\Queries\\GetLogs\\GetLogsQuery.cs",
-              "RelativeToolTip": "Application\\UseCases\\Logs\\Queries\\GetLogs\\GetLogsQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T03:36:19.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\BillZuletaRetoPractico02\\Program.cs",
-              "RelativeDocumentMoniker": "BillZuletaRetoPractico02\\Program.cs",
-              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\BillZuletaRetoPractico02\\Program.cs",
-              "RelativeToolTip": "BillZuletaRetoPractico02\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T03:33:53.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\BillZuletaRetoPractico02\\appsettings.json",
-              "RelativeDocumentMoniker": "BillZuletaRetoPractico02\\appsettings.json",
-              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\BillZuletaRetoPractico02\\appsettings.json",
-              "RelativeToolTip": "BillZuletaRetoPractico02\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-05T03:33:35.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LogController.cs",
-              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\BillZuletaRetoPractico02\\Controllers\\LogController.cs",
-              "RelativeDocumentMoniker": "BillZuletaRetoPractico02\\Controllers\\LogController.cs",
-              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\BillZuletaRetoPractico02\\Controllers\\LogController.cs",
-              "RelativeToolTip": "BillZuletaRetoPractico02\\Controllers\\LogController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T03:31:25.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BaseController.cs",
-              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\BillZuletaRetoPractico02\\Controllers\\BaseController.cs",
-              "RelativeDocumentMoniker": "BillZuletaRetoPractico02\\Controllers\\BaseController.cs",
-              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\BillZuletaRetoPractico02\\Controllers\\BaseController.cs",
-              "RelativeToolTip": "BillZuletaRetoPractico02\\Controllers\\BaseController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T03:31:12.4Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

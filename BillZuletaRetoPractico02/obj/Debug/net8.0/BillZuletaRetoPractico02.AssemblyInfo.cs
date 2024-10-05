@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BillZuletaRetoPractico02")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66ec1a82802cc1487f4133a7b60daf91920eb6da")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c741aab67245eb50ab76cac66fd2b816e1fc14e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("BillZuletaRetoPractico02")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BillZuletaRetoPractico02")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
