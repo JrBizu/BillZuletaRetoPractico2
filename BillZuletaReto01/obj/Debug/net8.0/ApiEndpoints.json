@@ -1,0 +1,48 @@
+[
+  {
+    "ContainingType": "BillZuletaReto02.Controllers.LogController",
+    "Method": "Create",
+    "RelativePath": "api/Log/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Application.UseCases.Logs.Commands.CreateLog.CreateLogCommandModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Application.UseCases.Logs.Commands.CreateLog.CreateLogCommandDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BillZuletaReto02.Controllers.LogController",
+    "Method": "GetAll",
+    "RelativePath": "api/Log/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Application.UseCases.Logs.Queries.GetLogs.GetLogsQueryDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
