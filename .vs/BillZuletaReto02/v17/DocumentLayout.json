@@ -1,57 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\",
+  "WorkspaceRootPath": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D2EAC8F-3B39-4B1B-B47A-5CE8372F3D45}|Infrastructure\\Infrastructure.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\retopractico02\\prueba\\billzuletareto02\\infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D2EAC8F-3B39-4B1B-B47A-5CE8372F3D45}|Infrastructure\\Infrastructure.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\retopractico02\\billzuletareto02\\infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D2EAC8F-3B39-4B1B-B47A-5CE8372F3D45}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\retopractico02\\prueba\\billzuletareto02\\application\\usecases\\logs\\commands\\createlog\\createlogcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\retopractico02\\billzuletareto02\\application\\usecases\\logs\\commands\\createlog\\createlogcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|solutionrelative:application\\usecases\\logs\\commands\\createlog\\createlogcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C16DAC9B-524D-4A0B-8B46-361F01C36146}|Domain\\Domain.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\retopractico02\\prueba\\billzuletareto02\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C16DAC9B-524D-4A0B-8B46-361F01C36146}|Domain\\Domain.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\retopractico02\\billzuletareto02\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C16DAC9B-524D-4A0B-8B46-361F01C36146}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C16DAC9B-524D-4A0B-8B46-361F01C36146}|Domain\\Domain.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\retopractico02\\prueba\\billzuletareto02\\domain\\entities\\logentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C16DAC9B-524D-4A0B-8B46-361F01C36146}|Domain\\Domain.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\retopractico02\\billzuletareto02\\domain\\entities\\logentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C16DAC9B-524D-4A0B-8B46-361F01C36146}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\logentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D2EAC8F-3B39-4B1B-B47A-5CE8372F3D45}|Infrastructure\\Infrastructure.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\retopractico02\\prueba\\billzuletareto02\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D2EAC8F-3B39-4B1B-B47A-5CE8372F3D45}|Infrastructure\\Infrastructure.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\retopractico02\\billzuletareto02\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D2EAC8F-3B39-4B1B-B47A-5CE8372F3D45}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\retopractico02\\prueba\\billzuletareto02\\application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\retopractico02\\billzuletareto02\\application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB1B02B6-4768-4D1C-B5F5-0F4A1AD6CB69}|BillZuletaReto01\\BillZuletaReto02.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\retopractico02\\prueba\\billzuletareto02\\billzuletareto01\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB1B02B6-4768-4D1C-B5F5-0F4A1AD6CB69}|BillZuletaReto01\\BillZuletaReto02.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\retopractico02\\billzuletareto02\\billzuletareto01\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB1B02B6-4768-4D1C-B5F5-0F4A1AD6CB69}|BillZuletaReto01\\BillZuletaReto02.csproj|solutionrelative:billzuletareto01\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB1B02B6-4768-4D1C-B5F5-0F4A1AD6CB69}|BillZuletaReto01\\BillZuletaReto02.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\retopractico02\\prueba\\billzuletareto02\\billzuletareto01\\controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB1B02B6-4768-4D1C-B5F5-0F4A1AD6CB69}|BillZuletaReto01\\BillZuletaReto02.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\retopractico02\\billzuletareto02\\billzuletareto01\\controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB1B02B6-4768-4D1C-B5F5-0F4A1AD6CB69}|BillZuletaReto01\\BillZuletaReto02.csproj|solutionrelative:billzuletareto01\\controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB1B02B6-4768-4D1C-B5F5-0F4A1AD6CB69}|BillZuletaReto01\\BillZuletaReto02.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\retopractico02\\prueba\\billzuletareto02\\billzuletareto01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB1B02B6-4768-4D1C-B5F5-0F4A1AD6CB69}|BillZuletaReto01\\BillZuletaReto02.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\retopractico02\\billzuletareto02\\billzuletareto01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB1B02B6-4768-4D1C-B5F5-0F4A1AD6CB69}|BillZuletaReto01\\BillZuletaReto02.csproj|solutionrelative:billzuletareto01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\retopractico02\\prueba\\billzuletareto02\\application\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\retopractico02\\billzuletareto02\\application\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|solutionrelative:application\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\retopractico02\\prueba\\billzuletareto02\\application\\common\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\retopractico02\\billzuletareto02\\application\\common\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\retopractico02\\prueba\\billzuletareto02\\application\\usecases\\logs\\queries\\getlogs\\getlogsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\retopractico02\\billzuletareto02\\application\\usecases\\logs\\queries\\getlogs\\getlogsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BD9BC4D-349D-4CD4-9E3C-F9DC17A7CC45}|Application\\Application.csproj|solutionrelative:application\\usecases\\logs\\queries\\getlogs\\getlogsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB1B02B6-4768-4D1C-B5F5-0F4A1AD6CB69}|BillZuletaReto01\\BillZuletaReto02.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\retopractico02\\prueba\\billzuletareto02\\billzuletareto01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{FB1B02B6-4768-4D1C-B5F5-0F4A1AD6CB69}|BillZuletaReto01\\BillZuletaReto02.csproj|c:\\users\\zuleta\\documents\\cursos\\microserviciosc#net_litethinking\\retopractico02\\billzuletareto02\\billzuletareto01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FB1B02B6-4768-4D1C-B5F5-0F4A1AD6CB69}|BillZuletaReto01\\BillZuletaReto02.csproj|solutionrelative:billzuletareto01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -68,35 +68,33 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Domain\\Entities\\BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Domain\\Entities\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Domain\\Entities\\BaseEntity.cs",
               "RelativeToolTip": "Domain\\Entities\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T02:48:01.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T02:48:01.605Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Application\\Common\\Interfaces\\IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Application\\Common\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IRepository.cs",
-              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Application\\Common\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Application\\Common\\Interfaces\\IRepository.cs",
               "RelativeToolTip": "Application\\Common\\Interfaces\\IRepository.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAewBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T02:20:30.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T02:20:30.654Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Infrastructure\\Repositories\\Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Infrastructure\\Repositories\\Repository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Repository.cs",
-              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Infrastructure\\Repositories\\Repository.cs",
               "RelativeToolTip": "Infrastructure\\Repositories\\Repository.cs",
               "ViewState": "AgIAAEMAAAAAAAAAAAAnwFoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -107,131 +105,121 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "LogController.cs",
-              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\BillZuletaReto01\\Controllers\\LogController.cs",
+              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\BillZuletaReto01\\Controllers\\LogController.cs",
               "RelativeDocumentMoniker": "BillZuletaReto01\\Controllers\\LogController.cs",
-              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\BillZuletaReto01\\Controllers\\LogController.cs",
+              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\BillZuletaReto01\\Controllers\\LogController.cs",
               "RelativeToolTip": "BillZuletaReto01\\Controllers\\LogController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T02:18:57.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T02:18:57.133Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CreateLogCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Application\\UseCases\\Logs\\Commands\\CreateLog\\CreateLogCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Application\\UseCases\\Logs\\Commands\\CreateLog\\CreateLogCommand.cs",
               "RelativeDocumentMoniker": "Application\\UseCases\\Logs\\Commands\\CreateLog\\CreateLogCommand.cs",
-              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Application\\UseCases\\Logs\\Commands\\CreateLog\\CreateLogCommand.cs",
+              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Application\\UseCases\\Logs\\Commands\\CreateLog\\CreateLogCommand.cs",
               "RelativeToolTip": "Application\\UseCases\\Logs\\Commands\\CreateLog\\CreateLogCommand.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAmwBAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T02:22:01.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T02:22:01.32Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "LogEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Domain\\Entities\\LogEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Domain\\Entities\\LogEntity.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\LogEntity.cs",
-              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Domain\\Entities\\LogEntity.cs",
+              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Domain\\Entities\\LogEntity.cs",
               "RelativeToolTip": "Domain\\Entities\\LogEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T02:17:56.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T02:17:56.391Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Infrastructure\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Infrastructure\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Infrastructure\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T02:44:37.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T02:44:37.114Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "IApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Application\\Common\\Interfaces\\IApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Application\\Common\\Interfaces\\IApplicationDbContext.cs",
               "RelativeToolTip": "Application\\Common\\Interfaces\\IApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T02:44:24.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T02:44:24.003Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Application\\Common\\Mappings\\MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Application\\Common\\Mappings\\MappingProfile.cs",
               "RelativeDocumentMoniker": "Application\\Common\\Mappings\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Application\\Common\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Application\\Common\\Mappings\\MappingProfile.cs",
               "RelativeToolTip": "Application\\Common\\Mappings\\MappingProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T02:22:04.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T02:22:04.796Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "BaseController.cs",
-              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\BillZuletaReto01\\Controllers\\BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\BillZuletaReto01\\Controllers\\BaseController.cs",
               "RelativeDocumentMoniker": "BillZuletaReto01\\Controllers\\BaseController.cs",
-              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\BillZuletaReto01\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\BillZuletaReto01\\Controllers\\BaseController.cs",
               "RelativeToolTip": "BillZuletaReto01\\Controllers\\BaseController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T02:17:22.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T02:17:22.444Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\BillZuletaReto01\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\BillZuletaReto01\\Program.cs",
               "RelativeDocumentMoniker": "BillZuletaReto01\\Program.cs",
-              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\BillZuletaReto01\\Program.cs",
+              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\BillZuletaReto01\\Program.cs",
               "RelativeToolTip": "BillZuletaReto01\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T02:24:50.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T02:24:50.884Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "GetLogsQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Application\\UseCases\\Logs\\Queries\\GetLogs\\GetLogsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Application\\UseCases\\Logs\\Queries\\GetLogs\\GetLogsQuery.cs",
               "RelativeDocumentMoniker": "Application\\UseCases\\Logs\\Queries\\GetLogs\\GetLogsQuery.cs",
-              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Application\\UseCases\\Logs\\Queries\\GetLogs\\GetLogsQuery.cs",
+              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Application\\UseCases\\Logs\\Queries\\GetLogs\\GetLogsQuery.cs",
               "RelativeToolTip": "Application\\UseCases\\Logs\\Queries\\GetLogs\\GetLogsQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T02:25:52.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T02:25:52.459Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\BillZuletaReto01\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\BillZuletaReto01\\appsettings.json",
               "RelativeDocumentMoniker": "BillZuletaReto01\\appsettings.json",
-              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\BillZuletaReto01\\appsettings.json",
+              "ToolTip": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\BillZuletaReto01\\appsettings.json",
               "RelativeToolTip": "BillZuletaReto01\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-05T02:26:29.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T02:26:29.521Z"
             }
           ]
         }
