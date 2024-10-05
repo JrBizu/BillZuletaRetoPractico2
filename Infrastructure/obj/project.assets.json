@@ -7985,11 +7985,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Zuleta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Zuleta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8007,8 +8007,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Application\\Application.csproj"
+            "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Application\\Application.csproj"
             }
           }
         }

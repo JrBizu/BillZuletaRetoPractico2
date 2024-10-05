@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SL1Y9Xv0PmQ=",
+  "dgSpecHash": "Mi9FsdftayE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zuleta\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Zuleta\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512",

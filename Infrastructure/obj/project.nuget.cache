@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gJDuKXG572Q=",
+  "dgSpecHash": "mU4Cux3D47Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zuleta\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Zuleta\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

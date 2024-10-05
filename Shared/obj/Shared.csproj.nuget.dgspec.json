@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Shared\\Shared.csproj": {}
+    "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Shared\\Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Shared\\Shared.csproj": {
+    "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Shared\\Shared.csproj",
+        "projectPath": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\Zuleta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zuleta\\AppData\\Roaming\\NuGet\\NuGet.Config",

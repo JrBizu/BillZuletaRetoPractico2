@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Application\\Application.csproj": {}
+    "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Application\\Application.csproj": {
+    "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Zuleta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Application\\obj\\",
+        "outputPath": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zuleta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Domain\\Domain.csproj"
+              "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Domain\\Domain.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Domain\\Domain.csproj": {
+    "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Zuleta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\Prueba\\BillZuletaReto02\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Zuleta\\Documents\\CURSOS\\MicroserviciosC#Net_LiteThinking\\RetoPractico02\\BillZuletaReto02\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zuleta\\AppData\\Roaming\\NuGet\\NuGet.Config",
