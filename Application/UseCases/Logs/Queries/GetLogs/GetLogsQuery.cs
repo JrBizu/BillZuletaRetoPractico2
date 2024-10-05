@@ -26,19 +26,29 @@ namespace Application.UseCases.Logs.Queries.GetLogs
                 //}).ToList();
                 List<GetLogsQueryValueDto> oLista = new List<GetLogsQueryValueDto>();
 
-                var logs = new GetLogsQueryValueDto
-                {
-                    Id = new Guid(),
-                    Type = "Prueba Type",
-                    Descripcion = "Prueba Descripcion",
-                    CreatedDate = new DateTime()
-                };
+                var result = repository.GetLogsAsync();
 
-                oLista.Add(logs);
+                var logs = result.Select(x => new GetLogsQueryValueDto
+                {
+                    id = x.id,
+                    Type = x.Type,
+                    Descripcion = x.Descripcion,
+                    CreatedDate = x.CreatedDate,
+                }).ToList();
+
+                //var logs = new GetLogsQueryValueDto
+                //{
+                //    id = new Guid(),
+                //    Type = "Prueba Type",
+                //    Descripcion = "Prueba Descripcion",
+                //    CreatedDate = new DateTime()
+                //};
+
+                //oLista.Add(logs);
 
                 var response = new GetLogsQueryDto()
                 {
-                    Logs = oLista
+                    Logs = logs
                 };
 
                 return Succeded(response);

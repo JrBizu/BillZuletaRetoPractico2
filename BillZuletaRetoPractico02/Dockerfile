@@ -1,7 +1,5 @@
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
-COPY ["Application/Application.csproj", "Application/"]
-COPY ["Domain.csproj", "Domain/"]
 #COPY BillZuletaRetoPractico02.csproj .
 COPY ["BillZuletaRetoPractico02.csproj", "BillZuletaRetoPractico02/"]
 RUN dotnet restore "./BillZuletaRetoPractico02/BillZuletaRetoPractico02.csproj"

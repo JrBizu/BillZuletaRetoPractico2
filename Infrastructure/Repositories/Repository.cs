@@ -3,8 +3,10 @@ using Domain.Entities;
 using Infrastructure.Common.Factories;
 using Infrastructure.Data;
 using Microsoft.Azure.Cosmos;
+using Microsoft.Azure.Documents.Client;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Options;
 
 namespace Infrastructure.Repositories
 {
@@ -72,6 +74,7 @@ namespace Infrastructure.Repositories
         //        }
 
         private readonly CosmosClient _cosmosClient;
+        private readonly DocumentClient _documentClient;
         private readonly Database _database;
         private readonly string _ContainerName;
         private readonly string _DatabaseName;
@@ -84,6 +87,7 @@ namespace Infrastructure.Repositories
             _ContainerName = configuration.GetSection("CosmosDB:ContainerName").Value ?? string.Empty;
 
             _cosmosClient = new CosmosClient(ConnectionString, Key);
+            _documentClient = new DocumentClient(new Uri(ConnectionString), Key);
             _database = _cosmosClient.GetDatabase(_DatabaseName);
         }
 
@@ -92,6 +96,16 @@ namespace Infrastructure.Repositories
             var container = await _database.CreateContainerIfNotExistsAsync(_ContainerName, $"/{_DatabaseName}");
 
             await container.Container.CreateItemAsync<T>(entity);
+        }
+
+        public List<LogEntity> GetLogsAsync()
+        {
+            FeedOptions options = new FeedOptions() { MaxItemCount = -1 };
+            string sql = "SELECT * FROM C";
+            Uri uri = UriFactory.CreateDocumentCollectionUri(_DatabaseName, _ContainerName);
+            IQueryable<LogEntity> consulta = this._documentClient.CreateDocumentQuery<LogEntity>(uri, sql, options);
+
+            return consulta.ToList();
         }
     }
 }

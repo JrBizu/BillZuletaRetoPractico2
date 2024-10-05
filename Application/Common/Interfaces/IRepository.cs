@@ -22,5 +22,7 @@ namespace Application.Common.Interfaces
         //Task<IEnumerable<T>> ExecuteStoredProcedure(string query);
 
         Task CreateLogAsync(T entity);
+
+        List<LogEntity> GetLogsAsync();
     }
 }
